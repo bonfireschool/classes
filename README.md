@@ -42,7 +42,6 @@ This is a group of three people working together on a single topic. Used to buil
 Labels from A to E help students identify roles. They can be used like so:
 
 **Developer:**
-
 <img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-a.svg" alt="alt text" width="50px" style="vertical-align:middle">
 
 **Navigator:**
@@ -56,9 +55,11 @@ Labels from A to E help students identify roles. They can be used like so:
 People without labels can be used to represnt any specific number of students to work together on projects or topics.
 
 ---
+**Copyright, Bonfire School 2017**
 
-<img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/bonfireschool-logo.svg" alt="alt text" width="35px" style="vertical-align:middle">&nbsp;
-**Bonfire School, 2017**
+**Can be used with permission from <a mailto:"louis@bonfireschool.com">louis@bonfireschool.com</a>**
+
+<img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/bonfireschool-logotype.svg" alt="alt text" width="160px" style="vertical-align:middle">&nbsp;
 
 
 
