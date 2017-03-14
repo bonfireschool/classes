@@ -80,6 +80,8 @@ While you observe, look for:
 - surprise or joy
 - moments of clarity
 
+### Usability Exercise
+
 Select a person in your group to complete the first task.
 
 While this person completes the task, others in the group take turns asking questions and writing down what they learn. When the task is done, select someone new to complete the next task.
@@ -112,18 +114,25 @@ In this exercise, we will learn how to interview someone.
 
 For the first interview:
 
-- *Person A* is listener
-- *Person B* is speaker
-- *Person C* is scribe
+- **Person A** is listener
+- **Person B** is speaker
+- **Person C** is scribe
 
 * * *
 
-Demonstration:
+### Demonstration
 
-- talk to people to learn more
-- listen to their inflection
-- notice body language
-- understand what's being shared
+For 2 minutes, someone will help me ask questions of another student and I will write notes. When done, I will share back what I learned.
+
+While I write, I listen to tone of voice and notice body language to understand what is being shared.
+
+After I have written the story, I can start to see themes.
+
+* * *
+
+### Interview Exercise
+
+The listener interviews the speaker for 3 minutes. We all stop, then the scribe recalls the story for 1 minute. When that is done, each person in the group switches roles. After the Interview #3, each member of the group will have a chance to be interviewed.
 
 The list of questions:
 
@@ -131,21 +140,15 @@ The list of questions:
 
 The listener asks:
 
-- Interview #1: Question, then anything that clarifies
-- Interview #2: Question, then "tell me more..." only
-- Interview #3: Question, then silence (just listen)
+**Interview #1: Person A is the listener and asks a question from the list, then anything that clarifies.**
+
+**Interview #2: Person B is the listener and asks a question from the list, then "tell me more..." only.**
+
+**Interview #3: Person C is the listener and asks a question from the list, then silence (just listen).**
 
 * * *
 
-Demonstration:
 
-- talk to people to learn more
-- listen to their inflection
-- notice body language
-- understand what's being shared
-
-
-After each session, you switch roles until everyone has a chance to be interviewed.
 
 Each session looks like:
 
