@@ -39,14 +39,14 @@ If you arrive early with other students, ask your neighbor:
 About the Instructor
 --------------------
 
-Louis Rawlins is a writer and technologist building community in design and health. For the past decade, he designed mobile apps and built websites in Silicon Valley. Louis founded [Bonfire School](http://bonfireschool.com/) for people of any background to create what they want &ndash; crafts, software, dance and more &ndash; in a place that supports personal health. He dreams that it can become a physical school one day. Louis is excited to teach a public class in San Francisco, a city that has inspired him since he arrived in 2004.
+[Louis Rawlins](http://louisrawlins.com/) is a writer and technologist building community in design and health. For the past decade, he designed mobile apps and built websites in Silicon Valley. Louis founded [Bonfire School](http://bonfireschool.com/) for people of any background to create what they want &ndash; crafts, software, dance and more &ndash; in a place that supports personal health. He dreams that it can become a physical school one day. Louis is excited to teach a public class in San Francisco, a city that has inspired him since he arrived in 2004.
 
 If you have feedback or questions after the class, please email [louis@bonfireschool.com](mailto:"louis@bonfireschool.com")
 
 Mindful Moment
 --------------
 
-Taking a break gives us clarity to connect to what we are doing.
+Let's take a breath for clarity to see how we are doing and what we will do next.
 
 
 Group Introductions
@@ -60,7 +60,11 @@ Where are you from? What would you like to learn?
 Discount Usability
 ------------------
 
+
 How do people use software? Let's find out!
+
+Watching and learning how 5 different people use a software program can improve its design. This simple process is informally known as [Discount Usability](https://www.nngroup.com/articles/discount-usability-20-years/).
+
 
 <img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle"> / <img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle">
 
@@ -71,28 +75,28 @@ What we will do:
 - watch someone use a computer
 - ask them to speak aloud
 - take notes
-- see what you learn
+- compare what you learn
 
+While you observe, look for:
+
+- confusion or frustration
+- surprise or joy
+- moments of clarity
+
+Select a person in your group to complete these tasks on the computer. Other people in the group can take turns asking questions and writing down what they learn. When each task is done, select someone new to use the computer.
+ 
 -
-
 ### **Task 1: Download epub version of "Interviewing Users by Steve Portigal" from the San Francisco Public Library website (sfpl.org) onto your computer.**
 -
-
 ### **Task 2: Read online version of "Think Python by Allen B Downey" on the San Francisco Public Library website (sfpl.org).**
--
 
-While you are observing these tasks:
+* * *
 
-- look for confusion or frustration
-- look for surprise or joy
-- look for moments of clarity
-
-
-Short Break
------------
+### Short Break
 
 Stay nearby, but get up and move around. Get a drink of water. We'll start again in 10 minutes.
 
+* * *
 
 Interviewing People
 -------------------
