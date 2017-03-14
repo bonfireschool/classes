@@ -28,7 +28,7 @@ There are three main concepts in this series, each with it’s own class!**Mar
 Ice Breakers
 ------------
 
-Ask your neighbor:
+If you arrive early with other students, ask your neighbor:
 
 - What do you expect to learn today?
 - Why did you come to this class?
@@ -36,16 +36,25 @@ Ask your neighbor:
 - How did you get here today?
 
 
+About the Instructor
+--------------------
+
+Louis Rawlins is a writer and technologist building community in design and health. For the past decade, he designed mobile apps and built websites in Silicon Valley. Louis founded [Bonfire School](http://bonfireschool.com/) for people of any background to create what they want &ndash; crafts, software, dance and more &ndash; in a place that supports personal health. He dreams that it can become a physical school one day. Louis is excited to teach a public class in San Francisco, a city that has inspired him since he arrived in 2004.
+
+If you have feedback or questions after the class, please email [louis@bonfireschool.com](mailto:"louis@bonfireschool.com")
+
 Mindful Moment
 --------------
 
 Taking a break gives us clarity to connect to what we are doing.
 
 
-Introductions
--------------
+Group Introductions
+-------------------
 
-I'm from San Francisco and I've worked in Silicon Valley for the past ten years. Where are you from? What would you like to learn?
+Your instructor has lived in San Francisco for twelve years.
+
+Where are you from? What would you like to learn?
 
 
 Discount Usability
@@ -64,9 +73,13 @@ What we will do:
 - take notes
 - see what you learn
 
-**Task 1: Download epub version of "Interviewing Users by Steve Portigal" from the San Francisco Public Library website (sfpl.org) onto your computer.**
+-
 
-**Task 2: Read online version of "Think Python by Allen B Downey" on the San Francisco Public Library website (sfpl.org).**
+### **Task 1: Download epub version of "Interviewing Users by Steve Portigal" from the San Francisco Public Library website (sfpl.org) onto your computer.**
+-
+
+### **Task 2: Read online version of "Think Python by Allen B Downey" on the San Francisco Public Library website (sfpl.org).**
+-
 
 While you are observing these tasks:
 
