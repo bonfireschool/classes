@@ -168,26 +168,26 @@ Recommended Reading
 
 *Learn to find human needs*
 
-- Interviewing Users by Steve Portigal (2013)
-- Rocket Surgery Made Easy by Steve Krug (2010)
+- [Interviewing Users](http://www.portigal.com/Books/interviewing-users/) by Steve Portigal (2013)
+- [Rocket Surgery Made Easy](http://www.sensible.com/rsme.html) by Steve Krug (2010)
 
 *Design software*
 
-- Lean UX by Jeff Gothelf with Josh Seiden (2013)
-- The User’s Journey by Donna Lichaw (2016)
-- Design Is a Job by Mike Monteiro (2012)
+- [Lean UX](http://www.jeffgothelf.com/lean-ux-book/) by Jeff Gothelf with Josh Seiden (2013)
+- [The User’s Journey](http://www.donnalichaw.com/the-users-journey/) by Donna Lichaw (2016)
+- [Design Is a Job](https://abookapart.com/products/design-is-a-job) by Mike Monteiro (2012)
 
 *Build software with Python*
 
-- Think Python 2e – Green Tea Press
-- Think Python by Allen B Downey (2015) [Print Version]
-- repl.it - Python3 Compiler
-- The Python Tutorial — Python 3 documentation
+- [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) – Green Tea Press
+- [Think Python](http://shop.oreilly.com/product/0636920025696.do) by Allen B Downey (2015) [Print Version]
+- [repl.it](https://repl.it/languages/python3) - Python3 Compiler
+- [The Python Tutorial](https://docs.python.org/3/tutorial/) — Python 3 documentation
 
 ---
-**Copyright, Bonfire School 2017**
+**Copyright 2017 Bonfire School**
 
-**Can be used with permission from <a mailto:"louis@bonfireschool.com">louis@bonfireschool.com</a>**
+**For use of curriculum, contact author <a mailto:"louis@bonfireschool.com">louis@bonfireschool.com</a> for permission.**
 
 <img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/bonfireschool-logotype.svg" alt="alt text" width="160px" style="vertical-align:middle">&nbsp;
 
