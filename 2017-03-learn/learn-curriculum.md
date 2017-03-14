@@ -4,7 +4,7 @@ The [Business, Science and Technology Deskof San Francisco Public Library](http
 
 Software can be hard to understand. It’s harder still to make software. This class aims to make learning with an industry professional fun and engaging. Through a series of group exercises we will think about the needs of others and how we can solve their problems with software.
 
-There are three main concepts in this series, each with it’s own class:**March 15th: [Learn to find human needs for software](https://github.com/bonfireschool/bonfire-curriculum/blob/master/2017-03-learn/learn-curriculum.md)**
+There are three main concepts in this series, each with it’s own class!**March 15th: [Learn to find human needs for software](https://github.com/bonfireschool/bonfire-curriculum/blob/master/2017-03-learn/learn-curriculum.md)**
 
 * Listen and spend time with others to know what people need
 **March 22nd: [Design software based on human needs]()**
@@ -12,18 +12,16 @@ There are three main concepts in this series, each with it’s own class:**Mar
 * Draw pictures and tell a story of what to build to meet those needs**March 29th: [Build software with Python using design]()**
 
 * Code software and change it until it meets the needs of others
+	
+**Location:**
+
+	San Francisco Public Library
+	Computer Training Center
+	5th Floor, Main Library
+	(415) 557-4388
 
 * * *
 
-It's a series:
-
-Learn, Design and Build Software!
----------------------------------
-###[Learn]()
-
-###[Design]()
-
-###[Build]()
 
 
 
