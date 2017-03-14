@@ -1,6 +1,7 @@
 The [Business, Science and Technology Deskof San Francisco Public Library](http://sfpl.org/index.php?pg=0200001701) and [Bonfire School](http://bonfireschool.com/) present
 
-# Learn, Design and Build Software!
+Learn, Design and Build Software!
+=================================
 
 Software can be hard to understand. It’s harder still to make software. This class aims to make learning with an industry professional fun and engaging. Through a series of group exercises we will think about the needs of others and how we can solve their problems with software.
 
@@ -86,8 +87,11 @@ While you observe, look for:
 Select a person in your group to complete these tasks on the computer. Other people in the group can take turns asking questions and writing down what they learn. When each task is done, select someone new to use the computer.
  
 -
+
 ### **Task 1: Download epub version of "Interviewing Users by Steve Portigal" from the San Francisco Public Library website (sfpl.org) onto your computer.**
+
 -
+
 ### **Task 2: Read online version of "Think Python by Allen B Downey" on the San Francisco Public Library website (sfpl.org).**
 
 * * *
