@@ -102,9 +102,9 @@ Get up and move around. Drink some water. We'll start again in 10 minutes.
 Interviewing People
 -------------------
 
-Now we'll spend time listening to people and observing while they share their thoughts. We interview people when we want to understand how they see the world. During an interview about software, we may ask what problem somebody is trying to solve.
+We interview people when we want to understand how they see the world. During an interview about software, we may ask what problem somebody is trying to solve. We listen and observing while someone shares their thoughts.
 
-In this exercise, we will use a general example to learn how to interview someone.
+In this exercise, we will learn how to interview someone.
 
 <img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-a.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-b.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-c.svg" alt="alt text" width="50px" style="vertical-align:middle">
 
