@@ -23,9 +23,6 @@ There are three main concepts in this series, each with it’s own class!**Mar
 
 * * *
 
-
-
-
 Ice Breakers
 ------------
 
@@ -44,6 +41,7 @@ About the Instructor
 
 If you have feedback or questions after the class, please email [louis@bonfireschool.com](mailto:"louis@bonfireschool.com")
 
+
 Mindful Moment
 --------------
 
@@ -61,11 +59,9 @@ Where are you from? What would you like to learn?
 Discount Usability
 ------------------
 
-
 How do people use software? Let's find out!
 
 Watching and learning how 5 different people use a software program can improve its design. This simple process is informally known as [Discount Usability](https://www.nngroup.com/articles/discount-usability-20-years/).
-
 
 <img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle"> / <img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person.svg" alt="alt text" width="50px" style="vertical-align:middle">
 
@@ -84,28 +80,43 @@ While you observe, look for:
 - surprise or joy
 - moments of clarity
 
-Select a person in your group to complete these tasks on the computer. Other people in the group can take turns asking questions and writing down what they learn. When each task is done, select someone new to use the computer.
- 
--
+Select a person in your group to complete the first task.
 
-### **Task 1: Download epub version of "Interviewing Users by Steve Portigal" from the San Francisco Public Library website (sfpl.org) onto your computer.**
+While this person completes the task, others in the group take turns asking questions and writing down what they learn. When the task is done, select someone new to complete the next task.
 
--
+**Task #1: How would you download an epub version of _Interviewing Users_ by Steve Portigal onto your computer from the [San Francisco Public Library](http://sfpl.org/) website?**
 
-### **Task 2: Read online version of "Think Python by Allen B Downey" on the San Francisco Public Library website (sfpl.org).**
+**Task #2: How can you read online version of _Think Python_ by Allen B Downey on the [San Francisco Public Library](http://sfpl.org/) website?**
+
+**Task #3: Can you find the definition for the word _"epistemology"_ in the Oxford English Dictionary from the [San Francisco Public Library](http://sfpl.org/) website?**
+
 
 * * *
 
 ### Short Break
 
-Stay nearby, but get up and move around. Get a drink of water. We'll start again in 10 minutes.
+Get up and move around. Drink some water. We'll start again in 10 minutes.
 
 * * *
 
 Interviewing People
 -------------------
 
-We want to interview people to understand how they see the world and the software they are using. We want to learn what they are trying to get done and what work for them today. We will use a general example to understand how to interview someone.
+Now we'll spend time listening to people and observing while they share their thoughts. We interview people when we want to understand how they see the world. During an interview about software, we may ask what problem somebody is trying to solve.
+
+In this exercise, we will use a general example to learn how to interview someone.
+
+<img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-a.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-b.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-c.svg" alt="alt text" width="50px" style="vertical-align:middle">
+
+**Get into groups of 3 people.**
+
+For the first interview:
+
+- *Person A* is listener
+- *Person B* is speaker
+- *Person C* is scribe
+
+* * *
 
 Demonstration:
 
@@ -114,15 +125,25 @@ Demonstration:
 - notice body language
 - understand what's being shared
 
-<img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-a.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-b.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/person-c.svg" alt="alt text" width="50px" style="vertical-align:middle">
+The list of questions:
 
-**Get into groups of 3 people.**
+- “Tell me about your favorite book as a child.”- “Where is the first library you visited?”- “What do you remember about the first book you read?”- “How do you find what you want when you go to the library?”- “Describe your last visit to the library.”- “Tell me about your favorite spot to be in the library.”- “Why do you come to the library?”- “What was the first time you visited a library?”
 
-First interview session:
+The listener asks:
 
-- *Person A* is listener
-- *Person B* is speaker
-- *Person C* is scribe
+- Interview #1: Question, then anything that clarifies
+- Interview #2: Question, then "tell me more..." only
+- Interview #3: Question, then silence (just listen)
+
+* * *
+
+Demonstration:
+
+- talk to people to learn more
+- listen to their inflection
+- notice body language
+- understand what's being shared
+
 
 After each session, you switch roles until everyone has a chance to be interviewed.
 
