@@ -1,6 +1,6 @@
 The Business, Science and Technology Deskof San Francisco Public Library and Bonfire School present
 
-#Learn, Design and Build Software!
+# Learn, Design and Build Software!
 
 -
 
@@ -15,6 +15,7 @@ There are three main concepts in this series, each with it’s own class:**Mar
 
 * Code software and change it until it meets the needs of others
 
+* * *
 
 It's a series:
 
