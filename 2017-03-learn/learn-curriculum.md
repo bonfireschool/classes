@@ -1,8 +1,8 @@
-The Business, Science and Technology Deskof San Francisco Public Library and Bonfire School present
+The [Business, Science and Technology Deskof San Francisco Public Library](http://sfpl.org/index.php?pg=0200001701) and [Bonfire School](http://bonfireschool.com/) present
 
 # Learn, Design and Build Software!
 
--
+* * *
 
 Software can be hard to understand. It’s harder still to make software. This class aims to make learning with an industry professional fun and engaging. Through a series of group exercises we will think about the needs of others and how we can solve their problems with software.
 
