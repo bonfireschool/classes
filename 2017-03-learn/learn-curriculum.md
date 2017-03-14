@@ -138,8 +138,6 @@ The list of questions:
 
 - “Tell me about your favorite book as a child.”- “Where is the first library you visited?”- “What do you remember about the first book you read?”- “How do you find what you want when you go to the library?”- “Describe your last visit to the library.”- “Tell me about your favorite spot to be in the library.”- “Why do you come to the library?”- “What was the first time you visited a library?”
 
-The listener asks:
-
 **Interview #1: Person A is the listener and asks a question from the list, then anything that clarifies.**
 
 **Interview #2: Person B is the listener and asks a question from the list, then "tell me more..." only.**
@@ -148,29 +146,21 @@ The listener asks:
 
 * * *
 
-
-
-Each session looks like:
-
-- task (2 minutes): listener asks speaker question, scribe writes on post-its
-- (record story, then stop)
-- task (1 minutes): scribe tells story back to speaker
-- (tell story, then stop)
-- task (1 minutes): reflect as a group
-    - what was a surprise?
-    - what was difficult?
+After we are done interviewing and telling stories, reflect on the interviews. What was suprising? What was difficult?
 
 
 Professional Context
 --------------------
 
-How are these skills useful at work? When and where can they be used? How does it help us build software for human needs and what does that even mean?
+Bringing these skills together, we can start to understand the role of a software design researcher. These skills help us learn how to find human needs and can give us feedback about how well our software is working.
+
+What does it mean to build software for human needs? When can you use these skills? How can it be useful?
 
 
 Class Reflection
 ----------------
 
-What worked and what would you change? We can improve together.
+What worked and what would you change? Let's improve together.
 
 
 Recommended Reading
