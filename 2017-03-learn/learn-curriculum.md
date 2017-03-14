@@ -187,10 +187,6 @@ Recommended Reading
 ---
 **Copyright 2017 Bonfire School**
 
-**For use of curriculum, contact author <a mailto:"louis@bonfireschool.com">louis@bonfireschool.com</a> for permission.**
+**For use of curriculum, contact author [louis@bonfireschool.com](mailto:"louis@bonfireschool.com") for permission.**
 
-<img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/bonfireschool-logotype.svg" alt="alt text" width="160px" style="vertical-align:middle">&nbsp;
-
-
-
-
+<img src="https://s3-us-west-1.amazonaws.com/www.bonfireschool.com/curriculum/bonfireschool-logotype.svg" alt="alt text" width="160px" style="vertical-align:middle">
