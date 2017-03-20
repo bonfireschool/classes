@@ -1,15 +1,15 @@
 module.exports = {
-    title: 'Bonfire School Curriculum',
-    description: 'Simple lessons for anyone focused on design and health.',
+    "title": "Bonfire School Curriculum",
+    "description": "Simple lessons for anyone focused on design and health.",
 
-    pdf: {
-        pageNumbers: true,
-        paperSize: 'letter'
+    "pdf": {
+        "pageNumbers": true,
+        "paperSize": "letter"
     },
 
-    links: {
-        sidebar: {
-            'Bonfire School': 'http://bonfireschool.com/'
+    "links": {
+        "sidebar": {
+            "Bonfire School": "http://bonfireschool.com/"
         }
     }
 
