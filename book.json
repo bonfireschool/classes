@@ -1,16 +1,38 @@
 {
-    "title": "Bonfire School Curriculum",
-    "description": "Simple lessons for anyone focused on design and health.",
+  "title": "Bonfire School Curriculum",
+  "description": "Simple lessons for anyone focused on design and health.",
+  "version": "0.0.1",
 
-    "pdf": {
-        "pageNumbers": true,
-        "paperSize": "letter"
-    },
-
-    "links": {
-        "sidebar": {
-            "Bonfire School": "http://bonfireschool.com/"
-        }
+  "links": {
+    "sidebar": {
+      "Bonfire School": "http://bonfireschool.com/"
     }
+  }
 
+  "pdf": {
+    "pageNumbers": true,
+    "paperSize": "letter"
+  },
+
+  "author": "Louis Rawlins <louis@bonfireschool.com>",
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonfireschool/curriculum.git"
+  },
+  "keywords": [
+    "design",
+    "health",
+    "technology"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bonfireschool/curriculum/issues"
+  },
+  "homepage": "https://github.com/bonfireschool/curriculum#readme"
 }
