@@ -23,4 +23,4 @@
 ### Reference
 
 * [Glossary](GLOSSARY.md)
-* [Release notes](https://github.com/bonfireschool/curriculum/blob/master/CHANGES.md)
+* [Release notes](https://github.com/bonfireschool/classes/blob/master/CHANGES.md)
