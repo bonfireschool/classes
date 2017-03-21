@@ -8,7 +8,7 @@ We explore topics like technology, coffee and culture. We bring together people 
 
 # Classes
 
-We currently offer 3 classes on [design research](2017-03-sfpl-learn.md), [software design]() and [software development]() using Python. Each are foundational classes, covering the basics of how and why we use technology to help other people.
+We currently offer 3 classes on [design research](2017-03-sfpl-learn.md), [software design](2017-03-sfpl-design.md) and [software development](2017-03-sfpl-build.md) using Python. Each are foundational classes, covering the basics of how and why we use technology to help other people.
 
 ---
 
@@ -19,8 +19,8 @@ Software can be hard to understand. It’s harder still to make software. This c
 There are three main concepts in this series, each with it’s own class.
 
 * [Class 1: Learn to find human needs for software](2017-03-sfpl-learn.md)
-* [Class 2: Design software based on human needs]()
-* [Class 3: Build software with Python using design]()
+* [Class 2: Design software based on human needs](2017-03-sfpl-design.md)
+* [Class 3: Build software with Python using design](2017-03-sfpl-build.md)
 
 In this series, we learn to listen and spend time with others to know what they need; we design software based on those needs and draw pictures to tell the story of what we can build; then we build software with Python and change it until it meets the needs of others.
 
