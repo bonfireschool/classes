@@ -3,12 +3,6 @@
   "description": "Lessons for anyone to learn about design, health and technology.",
   "author": "Louis Rawlins <louis@bonfireschool.com>",
 
-  "links": {
-    "sidebar": {
-      "Bonfire School": "http://bonfireschool.com/"
-    }
-  },
-
   "pdf": {
     "pageNumbers": true,
     "paperSize": "letter"
