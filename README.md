@@ -8,59 +8,21 @@ We explore topics like technology, coffee and culture. We bring together people 
 
 # Classes
 
-We currently offer 3 classes on [design research](), [software design]() and [software development]() using Python. Each are foundational classes, covering the basics of how and why we use technology to help other people.
+We currently offer 3 classes on [design research](2017-03-sfpl-learn.md), [software design]() and [software development]() using Python. Each are foundational classes, covering the basics of how and why we use technology to help other people.
 
 ---
 
-**Learn, Design and Build Software:**
+### Learn, Design and Build Software
 
-* [Step 1: Learn to find human needs for software](2017-03-sfpl-learn.md)
-* [Step 2: Design software based on human needs](2017-03-sfpl-learn.md)
-* [Step 3: Build software with Python using design](2017-03-sfpl-learn.md)
+Software can be hard to understand. It’s harder still to make software. This class aims to make learning with an industry professional fun and engaging. Through a series of group exercises we will think about the needs of others and how we can solve their problems with software.
 
----
+There are three main concepts in this series, each with it’s own class.
 
-Common Terms and Symbols
-------------------------
+* [Class 1: Learn to find human needs for software](2017-03-sfpl-learn.md)
+* [Class 2: Design software based on human needs]()
+* [Class 3: Build software with Python using design]()
 
-This curricula uses language-indepent symbols to help students quickly and clearly understand the lesson. Because this class was first taught at the San Francisco Public Library accessbility is of utmost importance.
-
-###Symbols
-
-<img src="https://bonfireschool.github.io/classes/images/dyad.svg" alt="alt text" width="50px" style="vertical-align:middle">
-**(Dyad)**
-
-This is a group of two people working with each other on a single topic. Used when there are unfamiliar topics or students are new to one another.
-
--
-
-<img src="https://bonfireschool.github.io/classes/images/triad.svg" alt="alt text" width="50px" style="vertical-align:middle">
-**(Triad)**
-
-This is a group of three people working together on a single topic. Used to build comfort with topics in a small, but dynamic group.
-
--
-
-<img src="https://bonfireschool.github.io/classes/images/person-a.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://bonfireschool.github.io/classes/images/person-b.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://bonfireschool.github.io/classes/images/person-c.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://bonfireschool.github.io/classes/images/person-d.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://bonfireschool.github.io/classes/images/person-e.svg" alt="alt text" width="50px" style="vertical-align:middle">
-**(3 people)**
-
-<img src="https://bonfireschool.github.io/classes/images/person-a.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://bonfireschool.github.io/classes/images/person-b.svg" alt="alt text" width="50px" style="vertical-align:middle">
-**(2 people)**
-
-Labels from A to E help students identify roles. They can be used like so:
-
-<img src="https://bonfireschool.github.io/classes/images/person-a.svg" alt="alt text" width="50px" style="vertical-align:middle">
-**(Developer)**
-
-
-<img src="https://bonfireschool.github.io/classes/images/person-b.svg" alt="alt text" width="50px" style="vertical-align:middle">
-**(Navigator)**
-
--
-
-<img src="https://bonfireschool.github.io/classes/images/person.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://bonfireschool.github.io/classes/images/person.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://bonfireschool.github.io/classes/images/person.svg" alt="alt text" width="50px" style="vertical-align:middle"> / <img src="https://bonfireschool.github.io/classes/images/person.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://bonfireschool.github.io/classes/images/person.svg" alt="alt text" width="50px" style="vertical-align:middle"> **(3 - 5 people)**
-
-People without labels can be used to represnt any specific number of students to work together on projects or topics.
+In this series, we learn to listen and spend time with others to know what they need; we design software based on those needs and draw pictures to tell the story of what we can build; then we build software with Python and change it until it meets the needs of others.
 
 ---
 **Copyright, Bonfire School 2017**
