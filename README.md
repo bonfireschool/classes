@@ -1,26 +1,24 @@
 # [<img src="https://bonfireschool.github.io/curriculum/images/bonfireschool-logotype.svg" alt="Bonfire School" width="320px">](http://bonfireschool.com/)
 
-Bonfire School is creates community around design and health.
+Bonfire School creates community around design and health.
 
 We explore topics like technology, coffee and culture. We bring together people of any background to create what they want &ndash; crafts, software, dance and more &ndash; in a place that supports personal health. Our dream is that it can become a physical school one day.
 
 ---
 
-# Curriculum
+# Classes
 
+We currently offer 3 classes on [design research](), [software design]() and [software development]() using Python. Each are foundational classes, covering the basics of how and why we use technology to help other people.
 
+---
 
-Presently, we have 3 classes for design research, software design and software development with Python. All are basic-level classes, with the intent to help people discover and use technology for humans.
+**Learn, Design and Build Software:**
 
-Learn, Design and Build Software!
----------------------------------
-###[Learn]()
+* [Step 1: Learn to find human needs for software](2017-03-sfpl-learn.md)
+* [Step 2: Design software based on human needs](2017-03-sfpl-learn.md)
+* [Step 3: Build software with Python using design](2017-03-sfpl-learn.md)
 
-###[Design]()
-
-###[Build]()
-
-
+---
 
 Common Terms and Symbols
 ------------------------
