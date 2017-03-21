@@ -7,7 +7,7 @@
 
 ---
 
-### Learn, Design and Build Software at San Francisco Public Library - March 2017
+### Learn, Design and Build Software
 
 * [Class 1: Learn to find human needs](2017-03-sfpl-learn.md)
 * [Class 2:  Design software](2017-03-sfpl-design.md)
