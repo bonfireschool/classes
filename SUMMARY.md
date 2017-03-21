@@ -20,6 +20,7 @@
 
 --
 
-### Original Files Online
+### Reference
 
+* [Glossary](GLOSSARY.md)
 * [Release notes](https://github.com/bonfireschool/curriculum/blob/master/CHANGES.md)
