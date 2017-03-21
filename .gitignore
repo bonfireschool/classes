@@ -1,2 +1,5 @@
 # Static html from gitbook
 _book
+
+# PDF file from gitbook
+book.pdf
