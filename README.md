@@ -1,4 +1,14 @@
-# Bonfire School Curriculum
+# [<img src="https://bonfireschool.github.io/curriculum/images/bonfireschool-logotype.svg" alt="Bonfire School" width="320px">](http://bonfireschool.com/)
+
+Bonfire School is creates community around design and health.
+
+We explore topics like technology, coffee and culture. We bring together people of any background to create what they want &ndash; crafts, software, dance and more &ndash; in a place that supports personal health. Our dream is that it can become a physical school one day.
+
+---
+
+# Curriculum
+
+
 
 Presently, we have 3 classes for design research, software design and software development with Python. All are basic-level classes, with the intent to help people discover and use technology for humans.
 
