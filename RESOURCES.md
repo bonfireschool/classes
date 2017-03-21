@@ -4,7 +4,7 @@ Tools and websites to help you in the classes we offer at Bonfire School.
 
 ---
 
-### [Design Studio Worksheet](bonfireschool-design_studio.pdf)
+### [Design Studio Worksheet](https://bonfireschool.github.io/classes/resources/bonfireschool-design_studio.pdf)
 
 Used in:
 
