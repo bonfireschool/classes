@@ -3,8 +3,9 @@
 ### Getting Started
 
 * [About these classes](README.md)
+* [Resources](RESOURCES.md)
 
---
+---
 
 ### Learn, Design and Build Software at San Francisco Public Library - March 2017
 
@@ -12,7 +13,7 @@
 * [Class 2:  Design software](2017-03-sfpl-design.md)
 * [Class 3: Build software with Python](2017-03-sfpl-build.md)
 
---
+---
 
 ### Reference
 
