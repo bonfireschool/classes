@@ -2,55 +2,16 @@
 
 ### Getting Started
 
-* [About this documentation](README.md)
-* [Learn, Design and Build Software! at San Francisco Public Library (March, 2017)](2017-03-sfpl-learn.md)
-
-### San Francisco Public Library
-
-* [Directory structure](structure.md)
-* [Pages and Summary](pages.md)
-* [Configuration](config.md)
-* [Glossary](lexicon.md)
-* [Multi-Lingual](languages.md)
-* [Markdown](syntax/markdown.md)
-    * [Headings](syntax/markdown.md#headings)
-    * [Paragraphs](syntax/markdown.md#paragraphs)
-    * [Emphasis](syntax/markdown.md#emphasis)
-    * [Lists](syntax/markdown.md#lists)
-    * [Links](syntax/markdown.md#links)
-    * [Images](syntax/markdown.md#images)
-    * [Blockquotes](syntax/markdown.md#blockquotes)
-    * [Tables](syntax/markdown.md#tables)
-    * [Code](syntax/markdown.md#code)
-    * [HTML](syntax/markdown.md#html)
-    * [Footnotes](syntax/markdown.md#footnotes)
-* [AsciiDoc](syntax/asciidoc.md)
-* [eBook and PDF](ebook.md)
-
-### Customization
-
-* [Templating](templating/README.md)
-    * [Content References](templating/conrefs.md)
-    * [Variables](templating/variables.md)
-    * [Builtin](templating/builtin.md)
-* [Plugins](plugins/README.md)
-    * [Create a plugin](plugins/create.md)
-    * [Hooks](plugins/hooks.md)
-    * [Blocks](plugins/blocks.md)
-    * [Filters](plugins/filters.md)
-    * [API & Context](plugins/api.md)
-    * [Test your plugin](plugins/testing.md)
-* [Theming](themes/README.md)
-
-### Plugin Development
-
-* [Introduction](./api/README.md)
-* [Node](./api/node.md)
-* [Connect to the context](./api/connect.md)
-* [Components](./api/components.md)
+* [About these classes](README.md)
 
 --
 
-* [FAQ](faq.md)
-* [Examples](examples.md)
-* [Release notes](https://github.com/GitbookIO/gitbook/blob/master/CHANGES.md)
+### Learn, Design and Build Software at San Francisco Public Library - March 2017
+
+* [Class 1 - Learn to find human needs](2017-03-sfpl-learn.md)
+* [Class 2 - Design software](2017-03-sfpl-learn.md)
+* [Class 3 - Build software with Python](2017-03-sfpl-learn.md)
+
+--
+
+* [Release notes](https://github.com/bonfireschool/curriculum/blob/master/CHANGES.md)
