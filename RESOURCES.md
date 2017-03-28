@@ -10,6 +10,13 @@ Used in:
 
 * [Class 2: Design software based on human needs](2017-03-sfpl-design.md)
 
+
+### [Python Code for SFPL (2017-03)](https://bonfireschool.github.io/classes/resources/2017-03-sfpl-build-code.py)
+
+Used in:
+
+* [Class 3: Build software with Python](2017-03-sfpl-build.md)
+
 ---
 **Copyright, Bonfire School 2017**
 
