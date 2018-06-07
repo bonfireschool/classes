@@ -10,29 +10,39 @@ The [Business, Science and Technology Desk of San Francisco Public Library](http
 Why Writing Well is Important
 -----------------------------
 
-John Maeda quote.
+Writing well is important because written language makes up a large part of our waking hours. From advertisements online and outdoors, to email and text messages, our modern lives are filled with words.
 
-Something from clarity and grace.
+As a result, it's important we consider meaning before writing and allow ourselves to communicate clearly, which often means getting out of our own way.
 
-Possibly, something from Donald M Murray.
+Some thoughts from the book ***Writing to Deadline: The Journalist at Work by Donald M. Murray (2000).***
+
+>***Write Easily***
+>
+>Forced writing usually sounds like forced writing. Good writing should have the ease of good conversation. Find your way to tell the story without forcing it, letting it appear naturally. To do this you may have to write fast so that you can outrace the censors who live within us all.
+>
+>To produce writing worth criticism, remember William Stafford's counsel:
+>
+>>I believe that the so-called "writing block" is a product of some kind of disproportion between your standards and your performance. . . . One should lower his standards until there is no felt threshold to go over in writing. It's easy to write. You just shouldn't have standards that inhibit you from writing.
+>>
+>>I can imagine a person beginning to feel he's not able to write up to that standard he imagines the world has set for him. But to me that's surrealistic. The only standard I can rationally have is the standard I'm meeting right now. . . . You should be more willing to forgive yourself. It doesn't make any difference if you are good or bad today. The assessment of the product is something that happens after you've done it.
+
 
 Technology in Context
 ---------------------
 
-Inmates running the asylum -- alan cooper, design, personas, user stories
-
-Agile versus Waterfall. Over the next two classes, we'll look at the **Big Picture** of writing for design, as well as **Stories** that help communicate how we can build the right software for people.
+Over the next two classes look at the **Big Picture** of writing for design, as well as **Stories** that help communicate how we can build the right software for people. Primarily we'll be looking at this from the perspective of an "agile development team".
 <div style="page-break-after: always;"></div>
 Big Picture: Part 1 of 2, June 6
 ----------------------------
 
 In order to get a sense of what it's like to write for design, we start by looking at examples. By far the easiest contemporary challenge in mobile design is the "first time experience".
 
-https://blog.usejournal.com/ftue-first-time-user-experience-to-rule-the-world-69de5c196393
+**First Time User Experience**<br />
+[https://blog.usejournal.com/ftue-first-time-user-experience-to-rule-the-world-69de5c196393](https://blog.usejournal.com/ftue-first-time-user-experience-to-rule-the-world-69de5c196393)
 
 The question to be answered is this:
 
-How do we help someone new to our app understand how to get oriented and do what they came to do?
+>How do we help someone new to our app understand how to get oriented and do what they came to do?
 
 This question has embedded assumptions around ***activation***, ***retention***, ***referral*** and ultimately ***revenue***. Which is to say, if someone can't figure out how to sign-up or use your service properly, they are likely to leave, likely to say bad things (or at least nothing) to their friends about your service and thus impact the ability for your service to make money.
 
@@ -64,46 +74,27 @@ First time experience examples.
 - What works and why? What is being communicated?
 - How might you do this differently?
 
-**Google Sheets**
-https://firsttimeux.tumblr.com/post/87808502582/google-sheets-on-android-first-time-user
+**Google Sheets**<br />
+[https://firsttimeux.tumblr.com/post/87808502582/google-sheets-on-android-first-time-user](https://firsttimeux.tumblr.com/post/87808502582/google-sheets-on-android-first-time-user)
 
-**Apple iOS Bedtime Feature**
-https://firsttimeux.tumblr.com/post/166580740167/bedtime-new-feature-first-time-ux-for-ios-clock
-
+**Apple iOS Bedtime Feature**<br />
+[https://firsttimeux.tumblr.com/post/166580740167/bedtime-new-feature-first-time-ux-for-ios-clock](https://firsttimeux.tumblr.com/post/166580740167/bedtime-new-feature-first-time-ux-for-ios-clock)
 
 ###Exercise (Big Picture)
 
-Make the 
+Use the Design Studio for Writing PDF at as a guide for drawing and writing user interface elements based on the design brief below.
 
-[+ adjust brief for library app, with screens -- or do I just erase some screens?]
+**Design Studio for Writing PDF**<br />
+[https://bonfireschool.github.io/classes/resources/bonfireschool-write_for_design.pdf](https://bonfireschool.github.io/classes/resources/bonfireschool-write_for_design.pdf)
 
 **Design Brief**> San Francisco Public Library patrons want to find books to read on their digital devices. In a world of iPhone, Android devices, tablets and laptops, the library has accumulated books in a variety of digital formats from many services. Finding and reading books online has gotten complicated. Patrons can download books to their computer in PDF, EPUB, and MOBI format. To read these books, they can use services like OverDrive, Axis 360, Hoopla, Safari Online... just to name a few.
-> > Your task is to make the process of finding and reading digital books easier. Consider how you can make it clear when a patron has downloaded a book. How can you help people figure out what device they are using and what format is appropriate? Help people through the process and clarify what needs to happen when you can.
-
-
-
-
-
-
-
-
-
-https://effinamazing.com/blog/aarrr-pirate-metrics-for-startups/
-
-
-https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version
-
-https://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/
+> > Your task is to make the process of finding and reading digital books easier. Consider how you can make it clear when a patron has downloaded a book. How can you help people figure out what device they are using and what format is appropriate? Help people through the process and clarify what needs to happen when you can.
 
 <div style="page-break-after: always;"></div>
 
 
 Stories: Part 2 of 2, June 20
-------------------------------------JOhn Maeda example
-
-Agile and mountain goat
-
-
+------------------------------------
 ###Warm-Up (Stories)
 
 If you have a sheet of paper, write a sentence in a line across the top and hand it to the person on your left (or behind / in front of you).
@@ -122,17 +113,34 @@ If you receive a sheet of paper with a line written on it, write a line that con
 
 What are user stories and how do we use them?
 
+*A user story is a short, simple description of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system.*
+
+**Stories are placeholders for future discussion.**
+
 They are a way to describe how a piece of software works and to start a conversation with developers about how to build that application.
 
-Product managers write user stories, but it's good to have the mindset so that you know how your work will be translated as a designer.
+Product managers frequently write user stories, but it's good to have the mindset so that you know how your work will be translated as a designer.
 
-**Introduction to User Stories**
-https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories
+As an example:
+>Shopper Steve should be able to remove items from his shopping cart 
 
-**How To Write Well-Formed User Stories**
-https://content.pivotal.io/blog/how-to-write-well-formed-user-stories
+This can be written as:
+>As a shopper<br />
+>I want to remove items from my cart<br />
+>Because I want to manage items before I check out
 
-https://medium.com/product-labs/event-recap-boston-pms-share-real-user-stories-b33332b4ee8
+Which can be translated to:
+>GIVEN I'm a shopper viewing my shopping cart<br />
+>WHEN I click the “remove” icon next to an item<br />
+>THEN that item should be removed from my cart 
+
+**Introduction to User Stories**<br />
+[https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories](https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories)
+
+**How To Write Well-Formed User Stories**<br />
+[https://content.pivotal.io/blog/how-to-write-well-formed-user-stories](https://content.pivotal.io/blog/how-to-write-well-formed-user-stories)
+
+<div style="page-break-after: always;"></div>
 
 ###Exercise (Stories)
 
@@ -140,44 +148,28 @@ Let's look at the work we did in the Big Picture session. Each of these screens 
 
 How can we break this down?
 
-Let's try the format:
-
-As a...
-I want to...
-
-And,
-
-GIVEN,
-WHEN,
-THEN,
-
 For reference, here is an outline of our needs.
 
 **Design Brief**> San Francisco Public Library patrons want to find books to read on their digital devices. In a world of iPhone, Android devices, tablets and laptops, the library has accumulated books in a variety of digital formats from many services. Finding and reading books online has gotten complicated. Patrons can download books to their computer in PDF, EPUB, and MOBI format. To read these books, they can use services like OverDrive, Axis 360, Hoopla, Safari Online... just to name a few.
-> > Your task is to make the process of finding and reading digital books easier. Consider how you can make it clear when a patron has downloaded a book. How can you help people figure out what device they are using and what format is appropriate? Help people through the process and clarify what needs to happen when you can.
-<div style="page-break-after: always;"></div>
-# # # # #
+> > Your task is to make the process of finding and reading digital books easier. Consider how you can make it clear when a patron has downloaded a book. How can you help people figure out what device they are using and what format is appropriate? Help people through the process and clarify what needs to happen when you can.Professional Context--------------------Bringing these skills together, we can start to understand the role of design in software engineering. These skills help us learn how to express human needs as software requirements and the beginning of conversations for feedback about how well our software meets people's needs.What does it mean to build software for human needs? When can you use these skills? How can it be useful?
+Class Reflection----------------What worked and what would you change? Let's improve together.<div style="page-break-after: always;"></div>
 
-How Computers Work------------------Before we start, it's good to review how computers work. Programming can be difficult because the computer system is built upon the work of many different parts that aid to *remove complexity* when we use these computers.As a result, when we are programming a computer to do something for us, we must know exactly what the system expects, the inputs and outputs to the system, as well as some knowledge about how the computer stores information.Knowing how the computer works helps us build the right thing for the right person > **[How Computers Work: The CPU and Memory](http://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm)**Introduction to Python----------------------**Python Interpreter**We will be using the Python REPL, which stands for read-eval-print loop. You can think of it as a command prompt that allow your computer to read input, evaluate it and then show you the result on the screen. That is the basic concept.> **[Python 3 REPL](https://repl.it/languages/python3)****What's an interpreted language?**Python is an interpreted language. As a gross over-generalization, we can think of programming language as having several layers:- Interpreted languages (like JavaScript, Python) are expressive because they use patterns that closely resemble English. Commands can generally be run immediately without being compiled.- Compiled languages (like Java, C++) are expressive but must be compiled to run on a computer.- Assembly language is an arcane, but expressive language for programming directly to a computer. It offers shortcuts to store data in memory registers and control how the program will run on a computer.- Machine code is the information that controls how the program will run on a computer.<div style="page-break-after: always;"></div>
-Gopher------Our code example is inspired by [Gopher](http://www.brebru.com/isgopher2.html) which is a technology that came before the web. The aim of our program is to be simple and clear for people that want to find information. We will be using computers for what they are good at &ndash; storing and finding information.Programming in Python---------------------Use this code [Python Code for SFPL - 2017-03](https://bonfireschool.github.io/classes/resources/2017-03-sfpl-build-code.py) at repl.it (see above). 
-<img src="https://bonfireschool.github.io/classes/images/person-a.svg" alt="alt text" width="50px" style="vertical-align:middle"><img src="https://bonfireschool.github.io/classes/images/person-b.svg" alt="alt text" width="50px" style="vertical-align:middle">**Pair up with another student**- **Person A** is driver- **Person B** is navigator**Finding Books**Pair up with another student. One of you can 'drive' and write code while the other person 'navigates' by calling out things you're looking for or might have missed. Working together facilitates learning because computer programming is a complex subject. Don't worry, you'll have time to work on your own as well.Load the program from and look through the code and see what you can learn.Change the program to learn to new things. See what removing and adding code does to the output on your screen.**Concepts to Consider**
-- Why would we want to print?
-- What is a variable or a type? What does it mean to assign or compare something?
-- How would you define a list? When we put something in a list, how do we get it back?
-- What "conditionals" do we use everyday when we speak?
-- Why are functions important? How do we use them now and how could we use them through the program we are building?<div style="page-break-after: always;"></div>
-Keep Working Together---------------------**After 15 minutes, switch roles**
-- **Person B** is driver- **Person A** is navigatorConsider the questions on the previous page. Expand on what you have learned.
+Recommended Reading-------------------
+**Forget Coding: Writing Is Design’s “Unicorn Skill”**<br />
+[https://www.fastcodesign.com/3068938/forget-coding-writing-is-the-new-unicorn-skill](https://www.fastcodesign.com/3068938/forget-coding-writing-is-the-new-unicorn-skill)
 
-What would you need to update the program:
+**AARRR! Pirate Metrics For Startups**<br />
+[https://effinamazing.com/blog/aarrr-pirate-metrics-for-startups/](https://effinamazing.com/blog/aarrr-pirate-metrics-for-startups/)
 
-- ...to find the author of a book?
-- ...to add search for book names?
-- ...to add books to the list?
-* * *
-After we are done building and changing software in Python, reflect on what you did one your own and as a group. What was surprising? What was difficult?Professional Context--------------------Bringing these skills together, we can start to understand the role of a software engineer. These skills help us learn how to express human needs as software, but we still need feedback about how well our software is working.What does it mean to build software for human needs? When can you use these skills? How can it be useful?Class Reflection----------------What worked and what would you change? Let's improve together.<div style="page-break-after: always;"></div>
-Recommended Reading-------------------*Learn to find human needs*- [Interviewing Users](http://www.portigal.com/Books/interviewing-users/) by Steve Portigal (2013)- [Rocket Surgery Made Easy](http://www.sensible.com/rsme.html) by Steve Krug (2010)*Design software*- [Lean UX](http://www.jeffgothelf.com/lean-ux-book/) by Jeff Gothelf with Josh Seiden (2013)- [The User’s Journey](http://www.donnalichaw.com/the-users-journey/) by Donna Lichaw (2016)- [Design Is a Job](https://abookapart.com/products/design-is-a-job) by Mike Monteiro (2012)*Build software with Python*- [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) – Green Tea Press- [Think Python](http://shop.oreilly.com/product/0636920025696.do) by Allen B Downey (2015) [Print Version]- [repl.it](https://repl.it/languages/python3) - Python3 Compiler- [The Python Tutorial](https://docs.python.org/3/tutorial/) — Python 3 documentationFurther Learning----------------
-Use [repl.it](https://repl.it/languages/python3) to consider a few basic and intermediate topics:- [Conditional If statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)- [Conditional For statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)- [Defining Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)- [Using Python as a Calculator](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator)- [How to work with Strings, a representation of characters](https://docs.python.org/3/tutorial/introduction.html#strings)- [Working with Lists, a collection things like Strings and Integers](https://docs.python.org/3/tutorial/introduction.html#lists)Reflect on what you learn. What was surprising? What was difficult?<div style="page-break-after: always;"></div>
+**Startup Metrics for Pirates**<br />
+[https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version](https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
+
+**The Lean Analytics Cycle: Metrics > Hypothesis > Experiment > Act**<br />
+[https://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/](https://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/)
+
+**The Inmates Are Running the Asylum by Alan Cooper (1999)**<br />
+[https://dl.acm.org/citation.cfm?id=553473](h https://dl.acm.org/citation.cfm?id=553473)
+
 
 Thank You
 ---------
