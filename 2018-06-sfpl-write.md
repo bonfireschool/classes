@@ -1,13 +1,63 @@
-The [Business, Science and Technology Desk of San Francisco Public Library](http://sfpl.org/index.php?pg=0200001701) and [Bonfire School](http://bonfireschool.com/) present:Writing for Software Design===========================Designing for software is about more than what you can draw and build. Designer tell the story of the people using software and help shape the language used on the interface. In this class, we will explore how to write well and how to offer feedback during the software design process. ###[Writing for Software Design](2018-06-sfpl-write.md)<br />Wednesday, June 6 and June 20<br />6:00pm - 7:30pm
-* Observe and write well during software development**Location:**	Learning Studio at	San Francisco Public Library	5th Floor, Main Library	(415) 557-4388This series began with classes that introduced programming:
+The [Business, Science and Technology Desk of San Francisco Public Library](http://sfpl.org/index.php?pg=0200001701) and [Bonfire School](http://bonfireschool.com/) present:
 
-###[Build software with Python](2018-05-sfpl-build.md)* Code software and change it until it meets the needs of others
+Writing for Software Design
+===========================
+
+Designing for software is about more than what you can draw and build. Designer tell the story of the people using software and help shape the language used on the interface. In this class, we will explore how to write well and how to offer feedback during the software design process. 
+
+### [Writing for Software Design](2018-06-sfpl-write.md)<br />Wednesday, June 6 and June 20<br />6:00pm - 7:30pm
+
+* Observe and write well during software development
+
+**Location:**
+
+	Learning Studio at
+	San Francisco Public Library
+	5th Floor, Main Library
+	(415) 557-4388
+
+This series began with classes that introduced programming:
+
+###[Build software with Python](2018-05-sfpl-build.md)
+* Code software and change it until it meets the needs of others
+
 <div style="page-break-after: always;"></div>
-Ice Breakers------------If you arrive early with other students, ask your neighbor:- What do you expect to learn today?- Why did you come to this class?- What programming have you done?- How did you get here today?About the Instructor--------------------[Louis Rawlins](http://louisrawlins.com/) is an artist and engineer building community in health and design. For over a decade, he has designed and built websites and mobile apps for Silicon Valley companies. Louis founded [Bonfire School](http://bonfireschool.com/) for people of any background to create what they want &ndash; crafts, software, dance and more &ndash; in a place that supports personal health. He dreams that it can become a physical school one day.
-If you have feedback or questions after the class, please email [louis@bonfireschool.com](mailto:"louis@bonfireschool.com")
 
-Mindful Moment--------------Let's take a breath for clarity to see how we are doing and what we will do next.Group Introductions-------------------Your instructor has lived in San Francisco for fourteen years.Where are you from? What would you like to learn?<div style="page-break-after: always;"></div>
-Why Writing Well is Important
+Ice Breakers
+------------
+
+If you arrive early with other students, ask your neighbor:
+
+- What do you expect to learn today?
+- Why did you come to this class?
+- What programming have you done?
+- How did you get here today?
+
+About the Instructor
+--------------------
+
+[Louis Rawlins](http://louisrawlins.com/) is an artist and engineer building community in health and design. For over a decade, he has designed and built websites and mobile apps for Silicon Valley companies. Louis founded [Bonfire School](http://bonfireschool.com/) for people of any background to create what they want &ndash; crafts, software, dance and more &ndash; in a place that supports personal health. He dreams that it can become a physical school one day.
+
+If you have feedback or questions after the class, please email [louis@bonfireschool.com](mailto:"louis@bonfireschool.com")
+
+
+Mindful Moment
+--------------
+
+Let's take a breath for clarity to see how we are doing and what we will do next.
+
+
+Group Introductions
+-------------------
+
+Your instructor has lived in San Francisco for fourteen years.
+
+Where are you from? What would you like to learn?
+
+<div style="page-break-after: always;"></div>
+
+
+Why Writing Well is Important
 -----------------------------
 
 Writing well is important because written language makes up a large part of our waking hours. From advertisements online and outdoors, to email and text messages, our modern lives are filled with words.
@@ -31,8 +81,10 @@ Technology in Context
 ---------------------
 
 Over the next two classes look at the **Big Picture** of writing for design, as well as **Stories** that help communicate how we can build the right software for people. Primarily we'll be looking at this from the perspective of an "agile development team".
-<div style="page-break-after: always;"></div>
-Big Picture: Part 1 of 2, June 6
+
+<div style="page-break-after: always;"></div>
+
+Big Picture: Part 1 of 2, June 6
 ----------------------------
 
 In order to get a sense of what it's like to write for design, we start by looking at examples. By far the easiest contemporary challenge in mobile design is the "first time experience".
@@ -87,14 +139,18 @@ Use the Design Studio for Writing PDF at as a guide for drawing and writing user
 **Design Studio for Writing PDF**<br />
 [https://bonfireschool.github.io/classes/resources/bonfireschool-write_for_design.pdf](https://bonfireschool.github.io/classes/resources/bonfireschool-write_for_design.pdf)
 
-**Design Brief**> San Francisco Public Library patrons want to find books to read on their digital devices. In a world of iPhone, Android devices, tablets and laptops, the library has accumulated books in a variety of digital formats from many services. Finding and reading books online has gotten complicated. Patrons can download books to their computer in PDF, EPUB, and MOBI format. To read these books, they can use services like OverDrive, Axis 360, Hoopla, Safari Online... just to name a few.
-> > Your task is to make the process of finding and reading digital books easier. Consider how you can make it clear when a patron has downloaded a book. How can you help people figure out what device they are using and what format is appropriate? Help people through the process and clarify what needs to happen when you can.
+**Design Brief**
+
+> San Francisco Public Library patrons want to find books to read on their digital devices. In a world of iPhone, Android devices, tablets and laptops, the library has accumulated books in a variety of digital formats from many services. Finding and reading books online has gotten complicated. Patrons can download books to their computer in PDF, EPUB, and MOBI format. To read these books, they can use services like OverDrive, Axis 360, Hoopla, Safari Online... just to name a few.
+> 
+> Your task is to make the process of finding and reading digital books easier. Consider how you can make it clear when a patron has downloaded a book. How can you help people figure out what device they are using and what format is appropriate? Help people through the process and clarify what needs to happen when you can.
 
 <div style="page-break-after: always;"></div>
 
 
 Stories: Part 2 of 2, June 20
-------------------------------------
+------------------------------------
+
 ###Warm-Up (Stories)
 
 If you have a sheet of paper, write a sentence in a line across the top and hand it to the person on your left (or behind / in front of you).
@@ -150,11 +206,33 @@ How can we break this down?
 
 For reference, here is an outline of our needs.
 
-**Design Brief**> San Francisco Public Library patrons want to find books to read on their digital devices. In a world of iPhone, Android devices, tablets and laptops, the library has accumulated books in a variety of digital formats from many services. Finding and reading books online has gotten complicated. Patrons can download books to their computer in PDF, EPUB, and MOBI format. To read these books, they can use services like OverDrive, Axis 360, Hoopla, Safari Online... just to name a few.
-> > Your task is to make the process of finding and reading digital books easier. Consider how you can make it clear when a patron has downloaded a book. How can you help people figure out what device they are using and what format is appropriate? Help people through the process and clarify what needs to happen when you can.Professional Context--------------------Bringing these skills together, we can start to understand the role of design in software engineering. These skills help us learn how to express human needs as software requirements and the beginning of conversations for feedback about how well our software meets people's needs.What does it mean to build software for human needs? When can you use these skills? How can it be useful?
-Class Reflection----------------What worked and what would you change? Let's improve together.<div style="page-break-after: always;"></div>
+**Design Brief**
 
-Recommended Reading-------------------
+> San Francisco Public Library patrons want to find books to read on their digital devices. In a world of iPhone, Android devices, tablets and laptops, the library has accumulated books in a variety of digital formats from many services. Finding and reading books online has gotten complicated. Patrons can download books to their computer in PDF, EPUB, and MOBI format. To read these books, they can use services like OverDrive, Axis 360, Hoopla, Safari Online... just to name a few.
+> 
+> Your task is to make the process of finding and reading digital books easier. Consider how you can make it clear when a patron has downloaded a book. How can you help people figure out what device they are using and what format is appropriate? Help people through the process and clarify what needs to happen when you can.
+
+
+Professional Context
+--------------------
+
+Bringing these skills together, we can start to understand the role of design in software engineering. These skills help us learn how to express human needs as software requirements and the beginning of conversations for feedback about how well our software meets people's needs.
+
+What does it mean to build software for human needs? When can you use these skills? How can it be useful?
+
+
+Class Reflection
+----------------
+
+What worked and what would you change? Let's improve together.
+
+
+<div style="page-break-after: always;"></div>
+
+
+Recommended Reading
+-------------------
+
 **Forget Coding: Writing Is Design’s “Unicorn Skill”**<br />
 [https://www.fastcodesign.com/3068938/forget-coding-writing-is-the-new-unicorn-skill](https://www.fastcodesign.com/3068938/forget-coding-writing-is-the-new-unicorn-skill)
 
@@ -173,7 +251,15 @@ For reference, here is an outline of our needs.
 
 Thank You
 ---------
-Our class is grateful for support from:
+
+Our class is grateful for support from:
 
 - Donya Drummond and Kate Eppler ([SFPL](http://sfpl.org/))
-* * ***Copyright 2018 Bonfire School****For use of curriculum, contact author [louis@bonfireschool.com](mailto:"louis@bonfireschool.com") for permission.**<img src="https://bonfireschool.github.io/classes/images/bonfireschool-logotype.svg" alt="alt text" width="160px" style="vertical-align:middle">
+
+* * *
+
+**Copyright 2018 Bonfire School**
+
+**For use of curriculum, contact author [louis@bonfireschool.com](mailto:"louis@bonfireschool.com") for permission.**
+
+<img src="https://bonfireschool.github.io/classes/images/bonfireschool-logotype.svg" alt="alt text" width="160px" style="vertical-align:middle">
