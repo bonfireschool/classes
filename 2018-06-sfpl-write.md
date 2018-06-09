@@ -18,7 +18,7 @@ Designing for software is about more than what you can draw and build. Designer 
 
 This series began with classes that introduced programming:
 
-###[Build software with Python](2018-05-sfpl-build.md)
+### [Build software with Python](2018-05-sfpl-build.md)
 * Code software and change it until it meets the needs of others
 
 <div style="page-break-after: always;"></div>
@@ -100,11 +100,11 @@ This question has embedded assumptions around ***activation***, ***retention***,
 
 The easiest way to keep people happy with any service you provide is to learn how to communicate clearly through design, which includes the written word.
 
-###Content Strategy
+### Content Strategy
 
 Modern software development teams have content strategist that work with, or on, the software design team. Their role is to enable people to think about language and communication. Frequently, people come to content strategy from professions like journalism, where concise communication is valued.
 
-###Warm-Up (Big Picture)
+### Warm-Up (Big Picture)
 
 Follow each of these prompts in timed sequence:
 
@@ -119,7 +119,7 @@ Follow each of these prompts in timed sequence:
 
 <div style="page-break-after: always;"></div>
 
-###Example (Big Picture)
+### Example (Big Picture)
 
 First time experience examples.
 
@@ -132,7 +132,7 @@ First time experience examples.
 **Apple iOS Bedtime Feature**<br />
 [https://firsttimeux.tumblr.com/post/166580740167/bedtime-new-feature-first-time-ux-for-ios-clock](https://firsttimeux.tumblr.com/post/166580740167/bedtime-new-feature-first-time-ux-for-ios-clock)
 
-###Exercise (Big Picture)
+### Exercise (Big Picture)
 
 Use the Design Studio for Writing PDF at as a guide for drawing and writing user interface elements based on the design brief below.
 
@@ -151,7 +151,7 @@ Use the Design Studio for Writing PDF at as a guide for drawing and writing user
 Stories: Part 2 of 2, June 20
 ------------------------------------
 
-###Warm-Up (Stories)
+### Warm-Up (Stories)
 
 If you have a sheet of paper, write a sentence in a line across the top and hand it to the person on your left (or behind / in front of you).
 
@@ -165,7 +165,7 @@ If you receive a sheet of paper with a line written on it, write a line that con
 
 <div style="page-break-after: always;"></div>
 
-###Example (Stories)
+### Example (Stories)
 
 What are user stories and how do we use them?
 
@@ -198,7 +198,7 @@ Which can be translated to:
 
 <div style="page-break-after: always;"></div>
 
-###Exercise (Stories)
+### Exercise (Stories)
 
 Let's look at the work we did in the Big Picture session. Each of these screens has navigation that we need to describe in order to build it.
 
