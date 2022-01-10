@@ -27,7 +27,7 @@ In this series, we learn to listen and spend time with others to know what they 
 ---
 **Copyright, Bonfire School 2017**
 
-**For use of curriculum, contact author [louis@bonfireschool.com](mailto:"louis@bonfireschool.com") for permission.**
+**For use of curriculum, contact the author for permission.**
 
 <img src="https://bonfireschool.github.io/classes/images/bonfireschool-logotype.svg" alt="alt text" width="160px" style="vertical-align:middle">&nbsp;
 
